@@ -11,6 +11,7 @@ A comprehensive collection of tutorials, examples, and practice problems for mas
 **Key Concepts:**
 - A 2D array is a collection of elements arranged in rows and columns
 - Syntax: `datatype[][] arrayName = new datatype[rows][columns]`
+- 
 - Elements are accessed using two indices: `array[row][column]`
 - Useful for representing tabular data, grids, matrices, and game boards
 
