@@ -75,6 +75,8 @@ int[][] matrix = {
 };
 ```
 
+ 
+
 ### Method 3: Creating Jagged Arrays (different column sizes)
 ```java
 int[][] jagged = new int[3][];
